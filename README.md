@@ -1,6 +1,7 @@
 # Map Project using Mapbox GL JS
 
 This project utilizes Mapbox GL JS to display an interactive map with navigation functionality.
+- [Project Preview](http://chhabinath.github.io/maps)
 
 ## Description
 
